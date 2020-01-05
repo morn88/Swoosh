@@ -1,10 +1,12 @@
-package com.m0rn.swoosh
+package com.m0rn.swoosh.Controller
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
+import com.m0rn.swoosh.Utilities.EXTRA_LEAGUE
+import com.m0rn.swoosh.R
 import kotlinx.android.synthetic.main.activity_league.*
 
 class LeagueActivity : AppCompatActivity() {

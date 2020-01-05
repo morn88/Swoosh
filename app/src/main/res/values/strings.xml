@@ -16,4 +16,5 @@
     <string name="finish">Finish</string>
     <string name="desired_league">Desired League:</string>
     <string name="background_image">background image</string>
+    <string name="search_league">Looking for a co-ed beginner league near you...</string>
 </resources>
